@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#posts {
+    margin-top: 20px;
+}
+
+.post {
+    border: 1px solid #ddd;
+    padding: 10px;
+
+
+
+    
+    margin-bottom: 20px;
+}
+
+a {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+}
